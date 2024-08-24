@@ -79,9 +79,13 @@ print('RMSE = ',rmse)
 
 ## Output:
 df.head()
+
 ![Screenshot 2024-08-24 090323](https://github.com/user-attachments/assets/6c244cfa-3a0d-4376-acb6-83d25a957636)
+
 df.tail()
+
 ![Screenshot 2024-08-24 090336](https://github.com/user-attachments/assets/088ef068-3371-421b-ae81-85cc25729cf7)
+
 ![Screenshot 2024-08-24 084533](https://github.com/user-attachments/assets/666ad733-dacc-4b66-94a7-15c6647fc04f)
 ![Screenshot 2024-08-24 084547](https://github.com/user-attachments/assets/aa2fad57-0de4-4002-9907-256dc0ccb96b)
 
